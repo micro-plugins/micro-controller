@@ -1,0 +1,18 @@
+{
+  "total": 1,
+  "tools inspection": {
+    "Code Inspection": 1
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/micro-plugins/micro-controller",
+        "revisionId": "ad38618287302a9875a4e91d40449d03fb5bf1fa",
+        "branch": "master"
+      }
+    },
+    "deviceId": "200820300000000-226b-0e94-b3bd-3f2c060753ea",
+    "jobUrl": "https://github.com/micro-plugins/micro-controller/actions/runs/3430298100",
+    "repoUrl": "https://github.com/micro-plugins/micro-controller"
+  }
+}

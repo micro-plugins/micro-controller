@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "name": "micro-controller",
+      "languageLevel": 17
+    },
+    {
+      "name": "micro-controller.test",
+      "languageLevel": 17
+    },
+    {
+      "name": "micro-controller.main",
+      "languageLevel": 17
+    }
+  ]
+}

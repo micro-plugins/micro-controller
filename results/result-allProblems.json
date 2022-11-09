@@ -1,0 +1,29 @@
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "Abstraction issues",
+  "type": "'Optional' used as field or parameter type",
+  "severity": "High",
+  "comment": "'OptionalLong' used as type for parameter 'mask'",
+  "detailsInfo": "Reports any cases in which `java.util.Optional<T>`, `java.util.OptionalDouble`, `java.util.OptionalInt`, `java.util.OptionalLong`, or `com.google.common.base.Optional` are used as types for fields or parameters.\n\n`Optional` was designed to provide a limited mechanism for library method return types in which a clear way to represent \"no result\"\nwas needed.\n\nUsing a field with the `java.util.Optional` type is also problematic if the class needs to be\n`Serializable`, as `java.util.Optional` is not serializable.\n\nExample:\n\n\n      class MyClass {\n        Optional<String> name; // Optional field\n\n        // Optional parameter\n        void setName(Optional<String> name) {\n          this.name = name;\n        }\n      }\n",
+  "sources": [
+    {
+      "type": "file",
+      "path": "src/main/java/com/sxtanna/mc/micro/MicroControllerPlugin.java",
+      "language": "JAVA",
+      "line": 185,
+      "offset": 111,
+      "length": 12,
+      "code": {
+        "startLine": 183,
+        "length": 12,
+        "offset": 112,
+        "surroundingCode": "\n\n    public boolean test(@NotNull final Permissible target, @NotNull final ControllerFlag flag, @NotNull final OptionalLong mask) {\n        if (mask.isEmpty()) {\n            return false;"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "micro-controller.main",
+    "inspectionName": "OptionalUsedAsFieldOrParameterType"
+  },
+  "hash": "84a0ade382f4e5f02295008244ef3916fa50b1f1b767a538e2fa681a90ec3677"
+}]}
