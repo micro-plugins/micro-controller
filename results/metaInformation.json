@@ -7,12 +7,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/micro-plugins/micro-controller",
-        "revisionId": "ad38618287302a9875a4e91d40449d03fb5bf1fa",
+        "revisionId": "70c9c0314f51f7e216964cc823a4fb6e3841373d",
         "branch": "master"
       }
     },
     "deviceId": "200820300000000-226b-0e94-b3bd-3f2c060753ea",
-    "jobUrl": "https://github.com/micro-plugins/micro-controller/actions/runs/3430298100",
+    "jobUrl": "https://github.com/micro-plugins/micro-controller/actions/runs/3901323039",
     "repoUrl": "https://github.com/micro-plugins/micro-controller"
   }
 }
