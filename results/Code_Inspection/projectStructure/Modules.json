@@ -53,7 +53,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: co.aikar:acf-paper:0.5.0-SNAPSHOT",
+          "name": "Gradle: co.aikar:acf-paper:0.5.1-SNAPSHOT",
           "type": "Library"
         },
         {
@@ -239,7 +239,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: co.aikar:acf-paper:0.5.0-SNAPSHOT",
+          "name": "Gradle: co.aikar:acf-paper:0.5.1-SNAPSHOT",
           "type": "Library"
         },
         {

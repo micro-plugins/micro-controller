@@ -19,9 +19,9 @@
       ]
     },
     {
-      "name": "Gradle: co.aikar:acf-paper:0.5.0-SNAPSHOT",
+      "name": "Gradle: co.aikar:acf-paper:0.5.1-SNAPSHOT",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/co.aikar/acf-paper/0.5.0-SNAPSHOT/a99c1f1fd1b92aa028289ad3f5243dabe27050d/acf-paper-0.5.0-SNAPSHOT.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/co.aikar/acf-paper/0.5.1-SNAPSHOT/7ddb35be6b419bf94d25072161d50af46dffcb48/acf-paper-0.5.1-SNAPSHOT.jar!/"
       ]
     },
     {
