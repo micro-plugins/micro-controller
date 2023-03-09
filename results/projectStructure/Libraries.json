@@ -199,9 +199,15 @@
       ]
     },
     {
-      "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1",
+      "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.1/1bf771097bde296c3ab174861954e8aafaaf2e94/junit-jupiter-engine-5.9.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.2/572f7a553b53f83ee59cc045ce1c3772864ab76c/junit-jupiter-engine-5.9.2.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.2/fed843581520eac594bc36bb4b0f55e7b947dda9/junit-jupiter-api-5.9.2.jar!/"
       ]
     },
     {
@@ -217,9 +223,15 @@
       ]
     },
     {
-      "name": "Gradle: org.junit.platform:junit-platform-engine:1.9.1",
+      "name": "Gradle: org.junit.platform:junit-platform-engine:1.9.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.1/83591e5089d6cea5f324aa3ecca9b19d5a275803/junit-platform-engine-1.9.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.2/40aeef2be7b04f96bb91e8b054affc28b7c7c935/junit-platform-engine-1.9.2.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.2",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.2/6f9f8621d8230cd38aa42e58ccbc0c00569131ce/junit-platform-commons-1.9.2.jar!/"
       ]
     },
     {
