@@ -57,7 +57,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1",
+          "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2",
           "type": "Library"
         },
         {
@@ -125,7 +125,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.1",
+          "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.2",
           "type": "Library"
         },
         {
@@ -173,10 +173,6 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: org.ow2.asm:asm-commons:9.2",
           "type": "Library"
         },
@@ -186,10 +182,6 @@
         },
         {
           "name": "Gradle: org.junit.platform:junit-platform-engine:1.9.2",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.2",
           "type": "Library"
         },
         {

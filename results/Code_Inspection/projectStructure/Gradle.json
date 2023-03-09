@@ -34,12 +34,12 @@
       "version": "0.5.1-SNAPSHOT"
     },
     {
-      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1",
-      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.9.1",
+      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2",
+      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.9.2",
       "unresolved": false,
       "groupId": "org.junit.jupiter",
       "artifactId": "junit-jupiter-api",
-      "version": "5.9.1"
+      "version": "5.9.2"
     },
     {
       "ideaName": "Gradle: net.kyori:adventure-text-logger-slf4j:4.11.0",
@@ -170,12 +170,12 @@
       "version": "3.21.0"
     },
     {
-      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.9.1",
-      "gradleName": "org.junit.platform:junit-platform-commons:1.9.1",
+      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.9.2",
+      "gradleName": "org.junit.platform:junit-platform-commons:1.9.2",
       "unresolved": false,
       "groupId": "org.junit.platform",
       "artifactId": "junit-platform-commons",
-      "version": "1.9.1"
+      "version": "1.9.2"
     },
     {
       "ideaName": "Gradle: org.opentest4j:opentest4j:1.2.0",
@@ -266,14 +266,6 @@
       "version": "5.9.2"
     },
     {
-      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2",
-      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.9.2",
-      "unresolved": false,
-      "groupId": "org.junit.jupiter",
-      "artifactId": "junit-jupiter-api",
-      "version": "5.9.2"
-    },
-    {
       "ideaName": "Gradle: org.ow2.asm:asm-commons:9.2",
       "gradleName": "org.ow2.asm:asm-commons:9.2",
       "unresolved": false,
@@ -295,14 +287,6 @@
       "unresolved": false,
       "groupId": "org.junit.platform",
       "artifactId": "junit-platform-engine",
-      "version": "1.9.2"
-    },
-    {
-      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.9.2",
-      "gradleName": "org.junit.platform:junit-platform-commons:1.9.2",
-      "unresolved": false,
-      "groupId": "org.junit.platform",
-      "artifactId": "junit-platform-commons",
       "version": "1.9.2"
     },
     {

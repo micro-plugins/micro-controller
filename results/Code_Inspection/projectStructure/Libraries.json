@@ -175,15 +175,15 @@
       ]
     },
     {
-      "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1",
+      "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.1/7bb53fbc0173e9f6a9d21d58297af94b1f2f9ce1/junit-jupiter-api-5.9.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.2/fed843581520eac594bc36bb4b0f55e7b947dda9/junit-jupiter-api-5.9.2.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.1",
+      "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.1/3145f821b5cd10abcdc5f925baa5fffa6f1b628f/junit-platform-commons-1.9.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.2/6f9f8621d8230cd38aa42e58ccbc0c00569131ce/junit-platform-commons-1.9.2.jar!/"
       ]
     },
     {
@@ -205,12 +205,6 @@
       ]
     },
     {
-      "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2",
-      "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.2/fed843581520eac594bc36bb4b0f55e7b947dda9/junit-jupiter-api-5.9.2.jar!/"
-      ]
-    },
-    {
       "name": "Gradle: org.ow2.asm:asm-commons:9.2",
       "roots": [
         "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.2/f4d7f0fc9054386f2893b602454d48e07d4fbead/asm-commons-9.2.jar!/"
@@ -226,12 +220,6 @@
       "name": "Gradle: org.junit.platform:junit-platform-engine:1.9.2",
       "roots": [
         "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.2/40aeef2be7b04f96bb91e8b054affc28b7c7c935/junit-platform-engine-1.9.2.jar!/"
-      ]
-    },
-    {
-      "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.2",
-      "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.2/6f9f8621d8230cd38aa42e58ccbc0c00569131ce/junit-platform-commons-1.9.2.jar!/"
       ]
     },
     {
